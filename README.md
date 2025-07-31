@@ -1,2 +1,1 @@
-# SQL-Data-Warehouse-Project
-SQL Schemas, tables and datas
+Building modern Data Warehouse with SQL Server including ETL processes, data modeling and analytics!
