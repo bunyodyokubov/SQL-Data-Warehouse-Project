@@ -1,4 +1,6 @@
 📊 Data Warehouse & Analytics Project
+
+
 This repository contains a SQL-based Data Warehouse and Analytics solution structured into three layers: Bronze, Silver, and Gold. The project follows a modular, scalable architecture for handling raw data ingestion, transformation, and analytics-ready outputs.
 
 📁 Project Structure
