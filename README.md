@@ -6,7 +6,9 @@ This repository contains a SQL-based Data Warehouse and Analytics solution struc
 Project Structure
 
 ├── bronze       # Raw data ingestion layer
+
 ├── silver       # Cleaned and structured data layer
+
 ├── gold         # Aggregated, business-level analytics layer
 
 
