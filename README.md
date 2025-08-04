@@ -11,6 +11,7 @@ Project Structure
 
 ├── gold         # Aggregated, business-level analytics layer
 
+<img width="1544" height="798" alt="data_architecture" src="https://github.com/user-attachments/assets/6ce3f9b0-b3e8-4877-806d-367cad467804" />
 
 Layer Descriptions
 
